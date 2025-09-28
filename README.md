@@ -13,6 +13,18 @@ Lead-level analytics and data engineering professional repositioning into indust
 - dbt Cert-Prep Repo  
   Jaffle Shop models covering dbt Fundementals and other courses from the dbt Certified Developer Path.
 
+### Current Stack
+| System        | Instance             | Use                              | Notes                       |
+|---------------|----------------------|----------------------------------|-----------------------------|
+| **Snowflake** | 120-day Trial        | system, storage, compute         | cert-prep, project database |
+| **dbt**       | dbt Cloud Developer  | modeling, testing, documentation | cert-prep, modeling         |
+| **GitHub**    | GitHub Free          | project repository               | private and public repos    |
+| **Python**    | Anaconda, Spyder IDE | coding base                      | cert-prep, project coding   |
+| **Power BI**  | Desktop              | dashboarding                     | visualization               |
+
+This stack reflects no-cost tooling allowing certification prep, project development, and artifact exposure.
+
+
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/justin-tanous-329aa7/)  
 
