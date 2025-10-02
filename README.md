@@ -8,6 +8,13 @@ Lead-level analytics and data engineering professional repositioning into indust
   [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)
 
 ## Current Private Projects
+- Personal Loan Portfolo Analysis  
+  Analytics project for a personal loan portfolio applying COF and RWA metrics for profitbility.  
+  Features Excel, Power BI, and Streamlit artifacts.  
+  Will push to Public Repo as artifacts are completed.  
+- Snowflake Exemplars  
+  Example scripts and projects curated for Public Repo
+  Will push to Public Repo as artifacts are completed.  
 - Snowflake Cert-Prep Repo  
   Refactored Hands On Essentials Workshops, Associate: Platform cert-prep artifacts, and enterprise-grade account setup.
 - dbt Cert-Prep Repo  
