@@ -9,12 +9,12 @@ Lead-level analytics and data engineering professional repositioning into indust
 
 ## Current Private Projects
 - Personal Loan Portfolo Analysis  
-  Analytics project for a personal loan portfolio applying COF and RWA metrics for profitbility.  
-  Features Excel, Power BI, and Streamlit artifacts.  
-  Will push to Public Repo as artifacts are completed.  
-- Snowflake Exemplars  
-  Example scripts and projects curated for Public Repo
-  Will push to Public Repo as artifacts are completed.  
+  Analytics project applying Cost of Funds (COF) and Risk-Weighted Assets (RWA) metrics to assess profitability of a personal loan portfolio.  
+  Artifacts include Excel analysis, Power BI dashboards, and Streamlit dashboards.  
+  Public Repo deployment planned upon artifact completion.  
+- Snowflake Exemplars
+  Curated scripts and project exemplars showcasing Snowflake capabilities for public-facing reference.  
+  Artifacts will be modularized and pushed to Public Repo as finalized.  
 - Snowflake Cert-Prep Repo  
   Refactored Hands On Essentials Workshops, Associate: Platform cert-prep artifacts, and enterprise-grade account setup.
 - dbt Cert-Prep Repo  
@@ -33,7 +33,7 @@ This stack reflects no-cost tooling allowing certification prep, project develop
 
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/justin-tanous-329aa7/)  
+- [LinkedIn](https://www.linkedin.com/in/justintanous/)  
 
 ## Certifications and Credentials
 <table>
