@@ -1,24 +1,33 @@
 # Hi, I'm Justin Tanous
 
-Lead-level analytics and data engineering professional repositioning into industry-agnostic roles across Data Analyst and Engineering, BI, and Finance.
+Lead-level analytics and data engineering professional repositioning into industry-agnostic roles across Data Analytics and Engineering, BI, and Finance.
+
+## Why This Portfolio
+This portfolio is designed to demonstrate:
+- My ability to build stakeholder-grade analytics artifacts
+- My cert-prep discipline across Snowflake, dbt, and Python
+- My approach to modular, narratable project development
 
 ## Featured Projects
 - [Melanie's Smoothie Shop Order Form](https://github.com/jstanous/melanies_smoothies)  
   Snowflake Hands On Essentials Workshop: Streamlit app with Snowflake backend, nutrition API integration, and hardened SQL INSERT.  
   [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)
 
-## Current Private Projects
-- Personal Loan Portfolo Analysis  
-  Analytics project applying Cost of Funds (COF) and Risk-Weighted Assets (RWA) metrics to assess profitability of a personal loan portfolio.  
+## Coming Soon
+- Personal Loan Portfolio Analysis  
+  Profitability analysis framework for personal loan portfolios using Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.
+  Aims to surface segment performance and optimize capital allocation.
   Artifacts include Excel analysis, Power BI dashboards, and Streamlit dashboards.  
-  Public Repo deployment planned upon artifact completion.  
+  Public repo deployment planned upon artifact completion.  
 - Snowflake Exemplars
   Curated scripts and project exemplars showcasing Snowflake capabilities for public-facing reference.  
   Artifacts will be modularized and pushed to Public Repo as finalized.  
+- dbt Certified Developer Path (Jaffle Shop models and commentary overlays)
+  Jaffle Shop models covering coursework from the dbt Certified Developer Path.
+
+## Current Private Projects
 - Snowflake Cert-Prep Repo  
-  Refactored Hands On Essentials Workshops, Associate: Platform cert-prep artifacts, and enterprise-grade account setup.
-- dbt Cert-Prep Repo  
-  Jaffle Shop models covering dbt Fundementals and other courses from the dbt Certified Developer Path.
+  Refactored Hands On Essentials Workshops, Associate: Platform certification prep artifacts, and enterprise-grade account setup.
 
 ### Current Stack
 | System        | Instance             | Use                              | Notes                       |
@@ -58,6 +67,8 @@ This stack reflects no-cost tooling allowing certification prep, project develop
     </td>
   </tr>
 </table>
+
+_Last Updated: October 2025_
 
 <!--
 **jstanous/jstanous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
