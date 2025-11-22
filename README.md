@@ -9,16 +9,13 @@ This portfolio is designed to demonstrate:
 - My approach to modular, narratable project development
 
 ## Featured Projects
+- [Credit Portfolio Modeling](https://github.com/jstanous/Credit_Portfolio_Modeling)  
+  A finance analytics project for modeling loan portfolio performance featuring Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.
 - [Melanie's Smoothie Shop Order Form](https://github.com/jstanous/melanies_smoothies)  
   Snowflake Hands On Essentials Workshop: Streamlit app with Snowflake backend, nutrition API integration, and hardened SQL INSERT.  
   [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)
 
 ## Coming Soon
-- Personal Loan Portfolio Analysis  
-  Profitability analysis framework for personal loan portfolios using Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.
-  Aims to surface segment performance and optimize capital allocation.
-  Artifacts include Excel analysis, Power BI dashboards, and Streamlit dashboards.  
-  Public repo deployment planned upon artifact completion.  
 - Snowflake Exemplars
   Curated scripts and project exemplars showcasing Snowflake capabilities for public-facing reference.  
   Artifacts will be modularized and pushed to Public Repo as finalized.  
