@@ -10,21 +10,23 @@ This portfolio is designed to demonstrate:
 
 ## Featured Projects
 - [Credit Portfolio Modeling](https://github.com/jstanous/Credit_Portfolio_Modeling)  
-  A finance analytics project for modeling loan portfolio performance featuring Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.
+  A finance analytics project for modeling loan portfolio performance featuring Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.  
+- [dbt Jaffle Shop](https://github.com/jstanous/jaffle-shop)  
+  dbt Jaffle Shop project with Snowflake and GitHub integration exemplars. Scripts follow the dbt Certified Developer Path but are adapted, not exact lesson artifacts.  
 - [Melanie's Smoothie Shop Order Form](https://github.com/jstanous/melanies_smoothies)  
   Snowflake Hands On Essentials Workshop: Streamlit app with Snowflake backend, nutrition API integration, and hardened SQL INSERT.  
-  [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)
+  [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)  
 
 ## Coming Soon
 - Snowflake Exemplars
   Curated scripts and project exemplars showcasing Snowflake capabilities for public-facing reference.  
   Artifacts will be modularized and pushed to Public Repo as finalized.  
-- dbt Certified Developer Path (Jaffle Shop models and commentary overlays)
-  Jaffle Shop models covering coursework from the dbt Certified Developer Path.
 
 ## Current Private Projects
 - Snowflake Cert-Prep Repo  
   Refactored Hands On Essentials Workshops, Associate: Platform certification prep artifacts, and enterprise-grade account setup.
+- dbt Learning Repo  
+  Private dbt project repo with Snowflake integration, PAT secrets, and governance and lineage aligned documentation.
 
 ### Current Stack
 | System        | Instance             | Use                              | Notes                       |
