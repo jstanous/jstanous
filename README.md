@@ -13,7 +13,7 @@ This portfolio highlights:
   A finance analytics project for modeling loan portfolio performance featuring Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.  
 - [dbt Jaffle Shop](https://github.com/jstanous/jaffle-shop)  
   dbt Jaffle Shop project with Snowflake and GitHub integration exemplars. Scripts follow the dbt Certified Developer Path but are adapted, not exact lesson artifacts.
-- [dbt Multi-project Scaffold](https://github.com/jstanous/dbt-multproject-scaffold)  
+- [dbt Multi-project Scaffold](https://github.com/jstanous/dbt-multiproject-scaffold)
   A reference architecture for organizing multiple logical dbt domains inside a single physical project using model groups, domain‑scoped folders, and intention‑driven configuration.
 - [Melanie's Smoothie Shop Order Form](https://github.com/jstanous/melanies_smoothies)  
   Snowflake Hands On Essentials Workshop: Streamlit app with Snowflake backend, nutrition API integration, and hardened SQL INSERT.  
