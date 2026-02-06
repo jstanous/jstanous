@@ -1,26 +1,30 @@
 # Hi, I'm Justin Tanous
 
-Lead-level analytics and data engineering professional repositioning into industry-agnostic roles across Data Analytics and Engineering, BI, and Finance.
+Analytics Engineering and Data Analytics professional focused on building clear, reliable, and narratable data systems. I work at the intersection of modeling, documentation, and stakeholder‑ready insights, with a strong emphasis on Snowflake, dbt, and intentional project architecture.
 
 ## Why This Portfolio
-This portfolio is designed to demonstrate:
-- My ability to build stakeholder-grade analytics artifacts
-- My cert-prep discipline across Snowflake, dbt, and Python
-- My approach to modular, narratable project development
+This portfolio highlights:  
+• 	My ability to design analytics artifacts that are understandable, auditable, and ready for stakeholders  
+• 	My approach to modular, narratable project development that scales without becoming brittle  
+• 	My certification‑aligned discipline across Snowflake and dbt  
 
 ## Featured Projects
 - [Credit Portfolio Modeling](https://github.com/jstanous/Credit_Portfolio_Modeling)  
   A finance analytics project for modeling loan portfolio performance featuring Cost of Funds (COF) and Basel III Risk-Weighted Assets (RWA) metrics.  
 - [dbt Jaffle Shop](https://github.com/jstanous/jaffle-shop)  
-  dbt Jaffle Shop project with Snowflake and GitHub integration exemplars. Scripts follow the dbt Certified Developer Path but are adapted, not exact lesson artifacts.  
+  dbt Jaffle Shop project with Snowflake and GitHub integration exemplars. Scripts follow the dbt Certified Developer Path but are adapted, not exact lesson artifacts.
+- [dbt Multi-project Scaffold](https://github.com/jstanous/dbt-multproject-scaffold)  
+  A reference architecture for organizing multiple logical dbt domains inside a single physical project using model groups, domain‑scoped folders, and intention‑driven configuration.
 - [Melanie's Smoothie Shop Order Form](https://github.com/jstanous/melanies_smoothies)  
   Snowflake Hands On Essentials Workshop: Streamlit app with Snowflake backend, nutrition API integration, and hardened SQL INSERT.  
   [Streamlit App](https://melaniessmoothies-jstanous.streamlit.app/)  
 
 ## Coming Soon
-- Snowflake Exemplars
+- Snowflake Exemplars  
   Curated scripts and project exemplars showcasing Snowflake capabilities for public-facing reference.  
   Artifacts will be modularized and pushed to Public Repo as finalized.  
+- Home Assistant Architecture Notes  
+  A set of architecture‑focused write‑ups and select automation exemplars illustrating how I design modular, narratable systems using Home Assistant as a governance layer. Includes patterns such as sun‑ and temperature‑driven pool pump scheduling, intent‑driven automation design, clean entity modeling, and system‑level reasoning that parallels analytics engineering practices.
 
 ## Current Private Projects
 - Snowflake Cert-Prep Repo  
@@ -67,7 +71,7 @@ This stack reflects no-cost tooling allowing certification prep, project develop
   </tr>
 </table>
 
-_Last Updated: October 2025_
+_Last Updated: February 2026_
 
 <!--
 **jstanous/jstanous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
